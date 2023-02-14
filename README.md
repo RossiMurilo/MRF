@@ -20,8 +20,8 @@ Este projeto consiste num sistema para registro alimentar diario e suas calorias
         - [ ] Escolher data
             - [ ] Exibir refeicoes na data escolhida
             - [ ] Exibir o total das calorias consumidas
-    - [ ] Editar refeicao
-	- [ ] Excluir refeicao
+            - [ ] Editar refeicao
+	        - [ ] Excluir refeicao
 
     - [ ] Salvar informações da refeicao no banco de dados
  - [ ] Banco de Dados	 
