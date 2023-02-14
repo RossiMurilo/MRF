@@ -1,6 +1,6 @@
 # Controle alimentar diario
 ### Objetivo do Projeto
-Este projeto consiste num sistema para controlar as calorias consumidas por quem faz dieta, desenvolvido na matéria de Digital Business Enablement (DBE) do curso de Análise e Desenvolvimento de Sistemas da FIAP.
+Este projeto consiste num sistema para registro alimentar diario e suas calorias de todas as refeicoes, desenvolvido na matéria de Digital Business Enablement (DBE) do curso de Análise e Desenvolvimento de Sistemas da FIAP.
 
 ### Tarefas do Projeto 
  - [ ] Protótipo do Projeto
@@ -27,4 +27,4 @@ Este projeto consiste num sistema para controlar as calorias consumidas por quem
  - [ ] Banco de Dados	 
 	 
  - [ ] Deploy do Projeto
-Este projeto consiste num sistema para controlar as calorias consumidas por quem faz dieta
+### Este projeto consiste num sistema para registro alimentar diario e suas calorias de todas as refeicoes.
